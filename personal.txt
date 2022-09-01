@@ -1,0 +1,6 @@
+[Adblock Plus 1.1]
+! Title: Fanboy's Annti-thirdparty Fonts
+! Updated: 13 Feb 2021
+! Expires: 9 days
+! Specific
+||https://1337x.to/css/webfonts/$font,third-party
