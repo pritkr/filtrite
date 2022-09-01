@@ -29,3 +29,5 @@ https://fanboy.co.nz/fanboy-antifonts.txt
 # Other third-party tracking
 https://easylist.to/easylist/fanboy-social.txt
 
+# personal
+https://raw.githubusercontent.com/pritkr/filtrite/main/personal.txt
