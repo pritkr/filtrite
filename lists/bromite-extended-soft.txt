@@ -30,4 +30,4 @@ https://fanboy.co.nz/fanboy-antifonts.txt
 https://easylist.to/easylist/fanboy-social.txt
 
 # personal
-https://raw.githubusercontent.com/pritkr/filtrite/main/personal.txt
+https://abp.oisd.nl/
