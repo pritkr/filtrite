@@ -6,7 +6,6 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://github.com/easylist/easylist/raw/gh-pages/easylist.txt
 https://github.com/easylist/easylist/raw/gh-pages/easyprivacy.txt
-https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 # https://fanboy.co.nz/fanboy-antifonts.txt
 https://o0.pages.dev/Pro/adblock.txt
