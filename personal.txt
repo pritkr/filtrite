@@ -5,3 +5,72 @@
 ! Specific
 ||https://1337x.to^$font,third-party
 ||webtor.io^
+! Fonts
+/fontawesome-$font,third-party
+/fonts/*.ttf$font,third-party
+!
+! Specific
+||gannett-cdn.com^*/fonts/$font,third-party
+||gannettdigital.com^*/fonts/$font,third-party
+||kinja-static.com/assets/fonts/$font,third-party
+!
+||alluremedia.com.au^$font,third-party
+||amazonaws.com^$font,third-party
+||bootstrapcdn.com/bootstrap/$font,third-party
+||cloud.typography.com^
+||cloud.webtype.com^
+||cloudfront.net^$font,third-party
+||disquscdn.com/next/assets/font/$third-party
+||edgefonts.net^
+||fonts.com^
+||fast.fonts.net^
+||fastly.net^$
+||fontawesome.com^
+||fontdeck.com^
+||fonts.advance.net^
+||fonts.bauernet.me^
+||fonts.condenast.com^
+||fonts.googleapis.com^
+||fonts.gotraffic.net^
+||fonts.gstatic.com^
+||fonts.nymag.com^
+||fonts.smdg.ca^
+||fonts.staticworld.net^
+||fonts.timeinc.net^
+||fonts.voxmedia.com^
+||google.com/swg/$font,third-party
+||googleapis.com/ajax/libs/webfont/$third-party
+||googleusercontent.com/static/fonts/$third-party
+||gotraffic.net^$font
+||maxcdn.bootstrapcdn.com/font-awesome/$third-party
+||myfontastic.com^
+||myfonts.net^
+||netdna-cdn.com^*/webfonts/
+||netdna.bootstrapcdn.com^*/fonts/$third-party
+||qmerce.com/assets/$font
+||rackcdn.com/fonts/$font,third-party
+||typefront.com^$
+||typekit.com^
+||typekit.net^
+||typesquare.com^
+||use.fonticons.com^
+||vidible.tv/prod/fonts/$font
+||webfonts.creativecloud.com^
+||webfonts.sakura.ne.jp^$font
+||wp.com^*/fonts/$third-party
+!
+! Cloudflare CDN
+!
+/cdn-cgi/pe/bag2?*googleapis.com*webfont.js
+!
+! Causes too much false positives
+! ||maxcdn.bootstrapcdn.com^*/fonts/
+!
+@@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
+@@||fast.fonts.net/jsapi/$script
+@@||fonts.googleapis.com/css?$domain=onlyfans.com|google.com|translate.google.fr|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
+@@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
+@@||fonts.typekit.net^$domain=mpora.com
+@@||googleusercontent.com/static/fonts/$domain=tudocelular.com
+@@||maxcdn.bootstrapcdn.com/font-awesome/*/css/$domain=climatemirror.org
+@@||use.typekit.net^$domain=celyad.com|wellandgood.com
