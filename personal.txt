@@ -3,4 +3,5 @@
 ! Updated: 13 Feb 2021
 ! Expires: 9 days
 ! Specific
-||https://1337x.to/css/webfonts/$font,third-party
+||https://1337x.to^$font,third-party
+||webtor.io^
