@@ -1,4 +1,0 @@
-# ----------------------------------
-# First, all entries from bromite-extended
-# ----------------------------------
-https://dblw.oisd.nl/
