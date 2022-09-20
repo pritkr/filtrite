@@ -5,6 +5,25 @@
 ! Specific
 ||https://1337x.to^$font,third-party
 ||webtor.io^
+||cdn.cookielaw.org^
+||browser.sentry-cdn.com^
+||metrics.washingtonpost.com^
+||js.sentry-cdn.com^
+||aax.amazon-adsystem.com^
+||adservice.google.com^
+||www.googletagmanager.com^
+||www.google-analytics.com^
+||adserver-us.adtech.advertising.com^
+||securepubads.g.doubleclick.net^
+||www.googletagservices.com^
+||connect.facebook.net^
+||amplifypixel.outbrain.com^
+||pagead2.googlesyndication.com^
+||*.doubleclick.net^
+||*.googlesyndication.com^
+||*.advertising.com^
+||ads.pubmatic.com^
+||*.pubmatic.com^
 ! Fonts
 /fontawesome-$font,third-party
 /fonts/*.ttf$font,third-party
@@ -64,13 +83,4 @@
 /cdn-cgi/pe/bag2?*googleapis.com*webfont.js
 !
 ! Causes too much false positives
-! ||maxcdn.bootstrapcdn.com^*/fonts/
-!
-@@||ajax.googleapis.com/ajax/libs/webfont/$script,domain=help.typepad.com|regexpal.com
-@@||fast.fonts.net/jsapi/$script
-@@||fonts.googleapis.com/css?$domain=onlyfans.com|google.com|translate.google.fr|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
-@@||fonts.gstatic.com^$domain=floatplane.com|google.com|youtube.com|bloble.io|regexpal.com|translate.google.com.hk|translate.google.co.kr|translate.google.cn|translate.google.co.jp|translate.google.it|translate.google.de|translate.google.es|translate.google.pl|translate.google.co.id
-@@||fonts.typekit.net^$domain=mpora.com
-@@||googleusercontent.com/static/fonts/$domain=tudocelular.com
-@@||maxcdn.bootstrapcdn.com/font-awesome/*/css/$domain=climatemirror.org
-@@||use.typekit.net^$domain=celyad.com|wellandgood.com
+||maxcdn.bootstrapcdn.com^*/fonts/
