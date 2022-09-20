@@ -3,7 +3,16 @@
 ! Updated: 13 Feb 2021
 ! Expires: 9 days
 ! Specific
-||https://1337x.to^$font,third-party
+||1337x.to^$font,third-party
+/webfonts/*.woff
+|https://1337x.to/css/webfonts/oswald-regular.woff
+|https://1337x.to/css/webfonts/opensans-regular.woff
+|https://1337x.to/css/webfonts/opensans-bold.woff
+|https://1337x.to/css/webfonts/oswald-light.woff
+|https://1337x.to/css/webfonts/opensans-light.woff
+|https://1337x.to/css/webfonts/Flaticon.woff
+|https://1337x.to/css/webfonts/*.woff
+
 ||webtor.io^
 ||cdn.cookielaw.org^
 ||browser.sentry-cdn.com^
